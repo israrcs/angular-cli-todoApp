@@ -1,0 +1,22 @@
+{
+  "name": "angular-cli-todoapp",
+  "version": "1.0.0",
+  "description": "Fake REST API for Practice.. ",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israrcs/angular-cli-todoApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israrcs/angular-cli-todoApp/issues"
+  },
+  "homepage": "https://github.com/israrcs/angular-cli-todoApp#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
