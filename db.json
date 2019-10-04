@@ -1,10 +1,8 @@
 {
   "user_data":{
-    "first_name": "Jhon",
-    "last_name": "Doe",
-    "Age": 28
+    "name": "Jhon"
   },
   "todos": [
-    {"name": "this is my first todo......"}
+    {"name": "this is my first todo"}
   ]
 }
